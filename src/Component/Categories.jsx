@@ -1,5 +1,6 @@
 import React from "react";
 import { FiArrowRight } from "react-icons/fi";
+
 import RedChilli from "../assets/laalmirchi.png";
 import Coriander from "../assets/Dhaniya.png";
 import Ghee from "../assets/gee.png";
