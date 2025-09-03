@@ -15,7 +15,7 @@ const HeroSection = () => {
           <h3 className="text-gray-700 font-medium">100% Healthy & Tasty</h3>
           <h1 className="text-4xl md:text-5xl font-extrabold">
             <span className="text-green-600">ORGANIC</span>{" "}
-            <span className="text-gray-800">FOOD</span>
+            <span className="text-gray-800">Masala</span>
           </h1>
           <p className="text-gray-600 max-w-md">
             A place where help you to buy fresh grocery. Tasty and 100% healthy
